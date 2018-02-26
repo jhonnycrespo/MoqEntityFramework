@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqEntityFramework", "MoqEntityFramework\MoqEntityFramework.csproj", "{1C215315-4667-4605-AD37-57E14DBEC029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqEntityFramework.Test", "MoqEntityFramework.Test\MoqEntityFramework.Test.csproj", "{7EC6006D-F2EC-4A7F-A830-B7FE74E5D950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C215315-4667-4605-AD37-57E14DBEC029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C215315-4667-4605-AD37-57E14DBEC029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C215315-4667-4605-AD37-57E14DBEC029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C215315-4667-4605-AD37-57E14DBEC029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC6006D-F2EC-4A7F-A830-B7FE74E5D950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC6006D-F2EC-4A7F-A830-B7FE74E5D950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC6006D-F2EC-4A7F-A830-B7FE74E5D950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC6006D-F2EC-4A7F-A830-B7FE74E5D950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF11DE21-D059-48E0-A59E-E602CA1C97D5}
+	EndGlobalSection
+EndGlobal
